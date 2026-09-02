@@ -1,0 +1,20 @@
+# Fichier de traduction français pour le module WoocToDoli
+
+ModuleWoocToDoliName = WoocToDoli
+ModuleWoocToDoliDesc = Description de WoocToDoli
+WoocToDoliDescription = Automatise l'import des commandes WooCommerce dans Dolibarr.
+
+# Paramètres WooCommerce
+WooCommerceSettings = Paramètres WooCommerce
+Wooctodoli_WooUrl = URL de la boutique WooCommerce
+Wooctodoli_ConsumerKey = Clé consommateur
+Wooctodoli_ConsumerSecret = Secret consommateur
+Wooctodoli_ImportOrderStatus = Statut des commandes à importer
+Wooctodoli_ImportOrderStatusDesc = Statut des commandes WooCommerce à importer (ex: completed). Peut être une liste séparée par des virgules.
+
+# Pages et libellés génériques
+WoocToDoliSetup = Configuration WoocToDoli
+WoocToDoliSetupPage = Page de configuration WoocToDoli
+About = À propos
+WoocToDoliAbout = À propos de WoocToDoli
+WoocToDoliAboutPage = Page À propos de WoocToDoli

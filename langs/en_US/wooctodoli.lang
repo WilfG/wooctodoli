@@ -1,0 +1,51 @@
+# Translation file
+
+#
+# Generic
+#
+
+# Module label 'ModuleWoocToDoliName'
+ModuleWoocToDoliName = WoocToDoli
+# Module description 'ModuleWoocToDoliDesc'
+ModuleWoocToDoliDesc = WoocToDoli description
+WoocToDoliDescription = Automates import of WooCommerce orders into Dolibarr.
+
+# WooCommerce connection and import labels
+WooCommerceSettings = WooCommerce settings
+Wooctodoli_WooUrl = WooCommerce store URL
+Wooctodoli_ConsumerKey = Consumer Key
+Wooctodoli_ConsumerSecret = Consumer Secret
+Wooctodoli_ImportOrderStatus = Order status to import
+Wooctodoli_ImportOrderStatusDesc = Status of WooCommerce orders to import (e.g. completed). Can be a comma-separated list.
+
+#
+# Admin page
+#
+WoocToDoliSetup = WoocToDoli setup
+Settings = Settings
+WoocToDoliSetupPage = WoocToDoli setup page
+NewSection=New section
+WOOCTODOLI_MYPARAM1 = My param 1
+WOOCTODOLI_MYPARAM1Tooltip = My param 1 tooltip
+WOOCTODOLI_MYPARAM2=My param 2
+WOOCTODOLI_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+WoocToDoliAbout = About WoocToDoli
+WoocToDoliAboutPage = WoocToDoli about page
+
+#
+# Sample page
+#
+WoocToDoliArea = Home WoocToDoli
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
